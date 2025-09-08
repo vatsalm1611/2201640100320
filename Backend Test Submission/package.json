@@ -1,0 +1,13 @@
+{
+    "name": "backend-test-submission",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2",
+        "dotenv": "^16.4.5",
+        "axios": "^1.6.0"
+    }
+}
